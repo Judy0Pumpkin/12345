@@ -1,1 +1,2 @@
-今天學到了各種物件導向,遇到的困難就是他超級複雜有點難懂。解決的方法是自繼上Youtube找範例影片努力聽懂。
+今天學到了各種物件導向,遇到的困難就是他超級複雜有點難懂。解決的方法是自己上網找範例影片努力聽懂。
+我參考了這個網站--> https://www.zetria.org/view.php?subj=programming&chap=3zzmik9mct 有比較了解THIS跟NEW的概念了(吧)。
